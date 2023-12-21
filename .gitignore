@@ -1,0 +1,12 @@
+
+# Compiled source #
+*.css
+*.gif
+*.html
+*.js
+
+# Images
+host.png
+internet.png
+router.png
+switch.png
